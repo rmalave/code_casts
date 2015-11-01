@@ -1,0 +1,29 @@
+.navbar {
+  //Gradient from http://uigradients.com/
+  background: -webkit-linear-gradient(90deg, #3a7bd5 10%, #00d2ff 90%); /* Chrome 10+, Saf5.1+ */
+  background:    -moz-linear-gradient(90deg, #3a7bd5 10%, #00d2ff 90%); /* FF3.6+ */
+  background:     -ms-linear-gradient(90deg, #3a7bd5 10%, #00d2ff 90%); /* IE10 */
+  background:      -o-linear-gradient(90deg, #3a7bd5 10%, #00d2ff 90%); /* Opera 11.10+ */
+  background:         linear-gradient(90deg, #3a7bd5 10%, #00d2ff 90%); /* W3C */
+
+  min-height: 65px;
+  ul {
+    li {
+      a {
+        color: white !important;
+      }
+    }
+  }
+}
+.navbar-inverse {
+  border-color: transparent !important;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #F9F9F9;
+  }
+.navbar-brand {
+  color: white !important;
+  &:hover, &:focus {
+    color: #b7b7b7;
+  }
+}
