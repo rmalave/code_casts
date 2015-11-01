@@ -7,6 +7,7 @@ gem 'rails', '4.2.2'
 gem 'font-awesome-sass', '~> 4.4.0'
 #Bootstrap framework for styles
 gem 'bootstrap-sass', '~> 3.3.5'
+gem 'bootstrap-material-design', '~> 0.2.2'
 # Use SCSS for stylesheets
 gem 'sass-rails', '4.0.3'
 # Use Uglifier as compressor for JavaScript assets
