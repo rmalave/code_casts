@@ -3,7 +3,9 @@ ruby "2.2.2"
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.2'
-
+#Font awesome for awesome font icons
+gem 'font-awesome-sass', '~> 4.4.0'
+#Bootstrap framework for styles
 gem 'bootstrap-sass', '~> 3.3.5'
 # Use SCSS for stylesheets
 gem 'sass-rails', '4.0.3'
