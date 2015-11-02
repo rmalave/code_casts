@@ -16,7 +16,7 @@ gem 'coffee-rails', '4.1.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 #Stripe for payments
-gem 'stripe', '~> 1.16.1'
+gem 'stripe', '1.16.1'
 #User figaro to hide secret key
 gem 'figaro', '~> 1.0.0'
 # Use jquery as the JavaScript library
