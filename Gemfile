@@ -29,6 +29,8 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 #user authentication
 gem 'devise', '~> 3.4', '>= 3.4.1'
+#Paperclip gem for uploading images
+gem 'paperclip', '4.2.1'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
